@@ -1,0 +1,208 @@
+Book: Matilda
+Predicted rating (SVD): 8.20
+Predicted rating (SGD): 88.63
+
+Book: Harry Potter and the Sorcerer's Stone (Harry Potter (Paperback))
+Predicted rating (SVD): 8.15
+Predicted rating (SGD): 36.47
+
+Book: The Twits
+Predicted rating (SVD): 8.11
+Predicted rating (SGD): 16.85
+
+Book: Harry Potter and the Chamber of Secrets (Book 2)
+Predicted rating (SVD): 8.08
+Predicted rating (SGD): 7.61
+
+Book: Harry Potter and the Order of the Phoenix (Book 5)
+Predicted rating (SVD): 8.17
+Predicted rating (SGD): 7.31
+
+Book: Yukon Ho!
+Predicted rating (SVD): 8.19
+Predicted rating (SGD): 6.42
+
+Book: Stuart Little
+Predicted rating (SVD): 8.01
+Predicted rating (SGD): 2.46
+
+Book: Charlotte's Web (Trophy Newbery)
+Predicted rating (SVD): 8.23
+Predicted rating (SGD): 2.42
+
+Book: Dragons of Winter Night
+Predicted rating (SVD): 8.02
+Predicted rating (SGD): -0.19
+
+Book: Tread Softly
+Predicted rating (SVD): 8.04
+Predicted rating (SGD): -4.64
+
+Book: Hop on Pop (I Can Read It All by Myself Beginner Books)
+Predicted rating (SVD): 8.03
+Predicted rating (SGD): -4.65
+
+Book: The Color Purple
+Predicted rating (SVD): 8.19
+Predicted rating (SGD): -5.20
+
+Book: She Said Yes : The Unlikely Martyrdom of Cassie Bernall
+Predicted rating (SVD): 8.05
+Predicted rating (SGD): -6.67
+
+Book: Persuasion
+Predicted rating (SVD): 8.10
+Predicted rating (SGD): -19.65
+
+Book: The Hobbit : The Enchanting Prelude to The Lord of the Rings
+Predicted rating (SVD): 8.08
+Predicted rating (SGD): -35.51
+
+Book: Evening Class
+Predicted rating (SVD): 8.07
+Predicted rating (SGD): -42.99
+
+Book: The Phantom Tollbooth
+Predicted rating (SVD): 8.08
+Predicted rating (SGD): -51.77
+
+Book: Alexander And The Terrible, Horrible, No Good, Very Bad Day
+Predicted rating (SVD): 8.05
+Predicted rating (SGD): -54.35
+
+Book: Ramona's World (Ramona Series)
+Predicted rating (SVD): 8.02
+Predicted rating (SGD): -73.82
+
+Book: World According to Garp: A Novel
+Predicted rating (SVD): 8.02
+Predicted rating (SGD): -75.73
+
+Book: The Very Best Baby Name Book in the Whole Wide World
+Predicted rating (SVD): 8.17
+Predicted rating (SGD): -85.54
+
+Book: The Magician's Nephew (rack) (Narnia)
+Predicted rating (SVD): 8.14
+Predicted rating (SGD): -88.09
+
+Book: October Sky: A Memoir
+Predicted rating (SVD): 8.21
+Predicted rating (SGD): -95.80
+
+Book: The Magician's Nephew (Narnia)
+Predicted rating (SVD): 8.18
+Predicted rating (SGD): -96.23
+
+Book: The Lion, the Witch and the Wardrobe (Full-Color Collector's Edition)
+Predicted rating (SVD): 8.35
+Predicted rating (SGD): -96.44
+
+Book: Lonesome Dove
+Predicted rating (SVD): 8.42
+Predicted rating (SGD): -97.39
+
+Book: The Giver (21st Century Reference)
+Predicted rating (SVD): 8.09
+Predicted rating (SGD): -97.65
+
+Book: Howl and Other Poems (Pocket Poets)
+Predicted rating (SVD): 8.04
+Predicted rating (SGD): -102.59
+
+Book: Love You Forever
+Predicted rating (SVD): 8.25
+Predicted rating (SGD): -132.87
+
+Book: Goodnight Moon Board Book
+Predicted rating (SVD): 8.43
+Predicted rating (SGD): -150.41
+
+Book: The Hot Zone
+Predicted rating (SVD): 8.07
+Predicted rating (SGD): -155.85
+
+Book: A Swiftly Tilting Planet
+Predicted rating (SVD): 8.18
+Predicted rating (SGD): -200.68
+
+Book: A Long Way from Chicago: A Novel in Stories
+Predicted rating (SVD): 8.13
+Predicted rating (SGD): -201.01
+
+Book: A Wrinkle In Time
+Predicted rating (SVD): 8.18
+Predicted rating (SGD): -205.54
+
+Book: Goodnight Moon
+Predicted rating (SVD): 8.04
+Predicted rating (SGD): -205.81
+
+Book: Smiley's people
+Predicted rating (SVD): 8.08
+Predicted rating (SGD): -212.57
+
+Book: Cat in the Hat (I Can Read It All by Myself Beginner Books)
+Predicted rating (SVD): 8.19
+Predicted rating (SGD): -224.54
+
+Book: There's a Wocket in My Pocket!
+Predicted rating (SVD): 8.02
+Predicted rating (SGD): -224.83
+
+Book: Doggies (Boynton Board Books (Simon &amp; Schuster))
+Predicted rating (SVD): 8.11
+Predicted rating (SGD): -269.29
+
+Book: On the Banks of Plum Creek
+Predicted rating (SVD): 8.06
+Predicted rating (SGD): -270.82
+
+Book: Little House in the Big Woods
+Predicted rating (SVD): 8.04
+Predicted rating (SGD): -270.85
+
+Book: Inferno (Mentor)
+Predicted rating (SVD): 8.20
+Predicted rating (SGD): -291.99
+
+Book: The Magic School Bus Inside Ralphie: A Book About Germs
+Predicted rating (SVD): 8.07
+Predicted rating (SGD): -341.70
+
+Book: The Magic School Bus Gets Baked in a Cake: A Book About Kitchen Chemistry
+Predicted rating (SVD): 8.04
+Predicted rating (SGD): -341.70
+
+Book: Night
+Predicted rating (SVD): 8.07
+Predicted rating (SGD): -365.14
+
+Book: Walden and Other Writings
+Predicted rating (SVD): 8.13
+Predicted rating (SGD): -406.26
+
+Book: Snow White and the Seven Dwarfs
+Predicted rating (SVD): 8.41
+Predicted rating (SGD): -440.34
+
+Book: The Black Cauldron (Chronicles of Prydain (Paperback))
+Predicted rating (SVD): 8.25
+Predicted rating (SGD): -477.71
+
+Book: The Monster at the End of This Book
+Predicted rating (SVD): 8.28
+Predicted rating (SGD): -527.35
+
+Book: A Cup of Christmas Tea
+Predicted rating (SVD): 8.05
+Predicted rating (SGD): -1473.04
+
+Book: The Biggest Pumpkin Ever
+Predicted rating (SVD): 8.12
+Predicted rating (SGD): -1678.26
+
+Book: Foreign Dialects: A Manual for Actors, Directors and Writers
+Predicted rating (SVD): 8.09
+Predicted rating (SGD): -4037.90
+
